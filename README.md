@@ -1,0 +1,2 @@
+# FUZZY
+Fuzzy Logic Studies 
